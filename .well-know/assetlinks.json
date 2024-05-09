@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devstromo.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["C7:8A:1F:1A:34:C7:86:E6:AC:23:95:E0:A4:A1:C1:E3:74:34:09:9F:96:84:3D:A5:C3:AD:50:4E:4E:C9:24:DD"]
+    }
+  }]
